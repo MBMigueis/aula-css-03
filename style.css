@@ -39,6 +39,12 @@ main {
   color: white;
 }
 
+main h1,
+h2 {
+  display: flex;
+  justify-content: left;
+}
+
 section {
   display: flex;
   flex-wrap: wrap;
